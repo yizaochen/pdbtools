@@ -1,0 +1,7 @@
+README.md
+setup.py
+pdbtools.egg-info/PKG-INFO
+pdbtools.egg-info/SOURCES.txt
+pdbtools.egg-info/dependency_links.txt
+pdbtools.egg-info/requires.txt
+pdbtools.egg-info/top_level.txt
